@@ -1,0 +1,14 @@
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.exe
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.deps.json
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.runtimeconfig.json
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.dll
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.pdb
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.AssemblyInfoInputs.cache
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.AssemblyInfo.cs
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.csproj.CoreCompileInputs.cache
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.dll
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\refint\Movie Database Lab.dll
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.pdb
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.genruntimeconfig.cache
+C:\Users\imper\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\ref\Movie Database Lab.dll
